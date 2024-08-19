@@ -1,0 +1,10 @@
+# ninja log v5
+15	13316	6986146293805934	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/group_points.obj	2544cda85e9e0f9c
+22	13440	6986146295386294	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/interpolate.obj	a7c854b2b8110966
+4	13559	6986146295876403	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/ball_query.obj	748ad0f85bfd9809
+30	13648	6986146295926414	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/sampling.obj	c1c7bb2ef9ee0aef
+11	13739	6986146296666577	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/bindings.obj	e0779a54512165af
+8	50806	6986146668546242	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/ball_query_gpu.obj	31d41dfdabce132e
+18	51026	6986146670826752	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/group_points_gpu.obj	690750cb5bc96f0c
+26	51162	6986146672257080	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/interpolate_gpu.obj	b9f3b20510dc5078
+34	53087	6986146691551401	D:/MA/Masterarbeit/support/pointnet_utils/build/temp.win-amd64-cpython-37/Release/pointnet2_ops/_ext-src/src/sampling_gpu.obj	1587a142f2b4dec
